@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "hicolors",
+  "devDependencies": {
+    "requirejs": "^2.3.5",
+    "phaser-ce": "^2.9.2",
+    "fontfaceobserver": "^2.0.13",
+    "domReady": "requirejs-domready#^2.0.1",
+    "text": "requirejs-text#^2.0.15",
+    "i18n": "requirejs-i18n#^2.0.6"
+  }
+}

@@ -1,0 +1,9 @@
+.idea
+.DS_Store
+.nbproject
+node_modules
+npm-debug.log
+.sass-cache
+*.css.map
+*.swp
+HiColors/assets/libs

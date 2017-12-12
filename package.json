@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-then": "^1.0.0",
+    "time-grunt": "^1.4.0"
+  },
+  "scripts": {
+    "pre-commit-hook": "grunt pre-commit"
+  },
+  "pre-commit": {
+    "run": "pre-commit-hook"
+  }
+}

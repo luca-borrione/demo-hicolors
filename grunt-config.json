@@ -1,0 +1,5 @@
+{
+	"jsHintFiles" : [
+		"./HiColors/modules/**/*.js"
+	]
+}
